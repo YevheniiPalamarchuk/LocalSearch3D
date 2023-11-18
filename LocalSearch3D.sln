@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LocalSearch3D", "LocalSearch3D\LocalSearch3D.csproj", "{9A596626-88C9-4312-964C-9D316789DE37}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A596626-88C9-4312-964C-9D316789DE37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A596626-88C9-4312-964C-9D316789DE37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A596626-88C9-4312-964C-9D316789DE37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A596626-88C9-4312-964C-9D316789DE37}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2BB408C5-6A79-4D31-96D7-44A130E66F13}
+	EndGlobalSection
+EndGlobal
